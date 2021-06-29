@@ -1,0 +1,70 @@
+#main-section {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+body p {
+  color: #948e8e;
+}
+
+#main-section {
+  height: 100vh;
+  background-image: url(../image.JPG);
+  background-blend-mode: darken;
+  background-size: cover;
+  min-height: 500px;
+}
+
+#plan-section {
+  background-color: #212121;
+}
+#plan-section h3 {
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+}
+
+#home {
+  background-color: #212121;
+}
+
+.papka {
+  width: 350px;
+  background-color: #404040;
+  margin-top: 80px;
+  text-align: center;
+  margin: 0px auto;
+  padding: 20px;
+}
+
+.foot {
+  background-color: #141414;
+  padding: 50px;
+  margin-top: 70px;
+}
+
+.foot button {
+  float: right;
+}
+
+#footer {
+  background-color: #212121;
+}
+
+i {
+  margin-left: 20px;
+  float: right;
+}
+
+.foote {
+  padding: 60px;
+}
+
+/*# sourceMappingURL=style.css.map */

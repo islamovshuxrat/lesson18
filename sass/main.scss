@@ -1,0 +1,64 @@
+#main-section{
+    display: flex;
+    align-items: center;
+}
+body{
+    padding: 0;
+    margin: 0;color: white;
+    p{
+        color: rgb(148, 142, 142);
+    }
+}
+
+#main-section{
+    height: 100vh;
+    background-image:url(../image.JPG);
+    background-blend-mode:darken;
+    background-size: cover;
+   min-height: 500px;
+}
+#plan-section{
+    background-color: hsl(0, 0%, 13%);
+    h3{
+        text-align: center;
+    }
+}
+.img{
+    text-align: center;
+}
+#home{
+    background-color:  hsl(0, 0%, 13%);
+}
+
+.papka {
+    width: 350px;
+    background-color:  hsl(0, 0%, 25%);
+    margin-top: 80px;
+   text-align: center;
+   margin: 0px auto;
+    padding: 20px;
+  }
+ 
+  
+  
+  .foot{
+      background-color: rgb(20, 20, 20);
+      padding: 50px;
+      margin-top: 70px;
+      
+  }
+  .foot button{
+      float: right;
+  }
+  #footer{
+      background-color: hsl(0, 0%, 13%) ;
+  }
+  i{
+      margin-left: 20px;
+      float: right;
+  }
+  .foote{
+      padding: 60px;
+  }
+ 
+ 
